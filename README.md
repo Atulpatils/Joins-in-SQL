@@ -9,3 +9,4 @@
 
 SQL joins are actually help you to retrive data from two or more databases tables.
 This tables will be interlinked with primary keys and foreign key.
+Joins are used in SQL queries to combine data from multiple tables based on a related column between them.
